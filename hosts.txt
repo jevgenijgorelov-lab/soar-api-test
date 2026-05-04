@@ -1338,3 +1338,4 @@
 0.0.0.0 zeropark.com
 0.0.0.0 zoomd.com
 0.0.0.0 {"domain": "www.1501bets10.com", "targeted_brand": "www.1501bets10.com"}
+0.0.0.0 www.1501bets10.com
