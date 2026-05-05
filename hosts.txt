@@ -436,6 +436,7 @@
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 campaign.nmobs.com
 0.0.0.0 casalemedia.com
+0.0.0.0 casinometropol994.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-netmeraprod.turktelekom.com.tr
 0.0.0.0 cdn.adhouse.pro
