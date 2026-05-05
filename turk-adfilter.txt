@@ -4975,6 +4975,7 @@ zirvedehaber.com##.header-ainfo
 ||canlitribun*.live/r/
 ||canyouseem3.github.io/dosyalar/
 ||casalemedia.com^
+||casino.casinometropol994.com^
 ||casinoportali*.com/wp-content/html-tables/$third-party
 ||cdn-dfj.pages.dev/*.gif
 ||cdn-dfj.pages.dev/video.mp4$redirect=noop-1s.mp4,media
