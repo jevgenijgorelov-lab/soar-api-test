@@ -788,6 +788,7 @@
 0.0.0.0 logger-09.vty.dailymotion.com
 0.0.0.0 logger.virgul.com
 0.0.0.0 logs.viadata.store
+0.0.0.0 m.1502bets10.com
 0.0.0.0 mackolikftp.tuttur.com
 0.0.0.0 mads.com
 0.0.0.0 madserv.net
