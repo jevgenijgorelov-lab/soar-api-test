@@ -1,6 +1,5 @@
 # Generated from turk-adfilter.txt for DNS blocklists
 # Total domains: 1336
-
 0.0.0.0 0638.info
 0.0.0.0 109.73.75.29
 0.0.0.0 109.73.75.3
@@ -1309,8 +1308,12 @@
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wtg-ads.com
 0.0.0.0 ww3.smartadserver.com
+0.0.0.0 www.1501bets10.com
+0.0.0.0 www.b10.com
+0.0.0.0 www.casinometropol994.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.mobilbahis1263.com
 0.0.0.0 www.omaze.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xenaly.sozcu.com.tr
@@ -1338,6 +1341,3 @@
 0.0.0.0 zeropark.com
 0.0.0.0 zoomd.com
 0.0.0.0 {"domain": "www.1501bets10.com", "targeted_brand": "www.1501bets10.com"}
-0.0.0.0 www.1501bets10.com
-0.0.0.0 www.mobilbahis1263.com
-0.0.0.0 www.b10.com
