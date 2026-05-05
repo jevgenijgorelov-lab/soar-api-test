@@ -1322,6 +1322,7 @@
 0.0.0.0 www.mobilbahis1263.com
 0.0.0.0 www.mobilbahis1264.com
 0.0.0.0 www.omaze.com
+0.0.0.0 www.spino25.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xenaly.sozcu.com.tr
 0.0.0.0 xmtrk.com
